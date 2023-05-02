@@ -143,10 +143,10 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "March 2021 - April 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Mockup Design and developed production the Dental Website with 99% successful rate with booking system.",
+            "Design and Development the E-commerce Dashboard with the login system, order system and responsive",
+            "Development E-commerce with all feature like login,register, cart and Server side render in React JS.",
+            "Design and Development the E-Learning website with Multiple question and video lecturer producer",
         ],
     },
     {
