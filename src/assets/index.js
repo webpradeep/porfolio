@@ -40,8 +40,10 @@ import expostandzone from "./expostand.png"
 import moviewale from "./moviewale.png"
 import domicile from "./domicile.png"
 import sarkaripublic from "./sarkaripublic.png"
+import nike from "./nike.png"
 
 export {
+  nike,
   sarkaripublic,
   domicile,
   expostandzone,

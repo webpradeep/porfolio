@@ -30,7 +30,8 @@ import {
     expostandzone,
     moviewale,
     domicile,
-    sarkaripublic
+    sarkaripublic,
+    nike
 } from "../assets";
 
 export const navLinks = [
@@ -223,6 +224,27 @@ const projects = [
         ],
         image: expostandzone,
         source_code_link: "https://www.expostandzone.com/",
+    },
+    {
+        name: "Nike Shoes Store",
+        description:
+            "Web-based platform that is Exhibtion Stand builder website with using technology HTML, CSS and JS",
+        tags: [
+            {
+                name: "NextJS",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "ReactJs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "TailwindCSS",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: nike,
+        source_code_link: "https://nike-frontend-clone.vercel.app/",
     },
     {
         name: "MovieWale",
