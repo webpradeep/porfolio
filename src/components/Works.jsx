@@ -16,7 +16,7 @@ const ProjectCard = ({
 }) => {
   return (
     <motion.div
-      style={{ width: "31%" }}
+      className="w-full md:w-[46%] lg:w-[31%]"
       variant={fadeIn("up", "spring", index * 0.5, 0.75)}
     >
       <Tilt
