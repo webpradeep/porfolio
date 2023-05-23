@@ -31,7 +31,8 @@ import {
     moviewale,
     domicile,
     sarkaripublic,
-    nike
+    nike,
+    youtube
 } from "../assets";
 
 export const navLinks = [
@@ -247,6 +248,27 @@ const projects = [
         source_code_link: "https://nike-frontend-clone.vercel.app/",
     },
     {
+        name: "Youtube Clone ",
+        description:
+            "Web application that is provide movie information, trading movie , latest movie .",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "rapidapi",
+                color: "green-text-gradient",
+            },
+            {
+                name: "TailwindCss",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: youtube,
+        source_code_link: "https://youtube-clone-pradeep.vercel.app/",
+    },
+    {
         name: "MovieWale",
         description:
             "Web application that is provide movie information, trading movie , latest movie .",
@@ -291,7 +313,7 @@ const projects = [
     {
         name: "Sarkari Public",
         description:
-            "A comprehensive code and jobs alert  platform that allows users to get information about jobs and code and computer languages.",
+            "A platform that allows users to get information of code and computer languages.",
         tags: [
             {
                 name: "HTML",
