@@ -21,7 +21,7 @@ const Hero = () => {
             I am Front End Developer with Creative Design
           </p>
           <a
-            href="/CV_FrontEndDev_PradeepYadav1.pdf"
+            href="/Pradeep-Yadav-Frontend-Developer-Resume.pdf"
             attributes-list
             download="CV_FrontEndDeveloper_Pradeep"
             className="relative z-[3] black-gradient uppercase inline-block mt-3 cursor-pointer rounded-lg px-6 py-2 text-white text-[18px] font-uppercase"
