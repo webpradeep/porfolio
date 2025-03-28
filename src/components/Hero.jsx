@@ -23,7 +23,7 @@ const Hero = () => {
           <a
             href="/Pradeep-Yadav-Frontend-Developer-Resume.pdf"
             attributes-list
-            download="Pradeep-Yadav-Frontend-Developer-Resume"
+            download="/Pradeep-Yadav-Frontend-Developer-Resume.pdf"
             className="relative z-[3] black-gradient uppercase inline-block mt-3 cursor-pointer rounded-lg px-6 py-2 text-white text-[18px] font-uppercase"
           >
             Download Resume
