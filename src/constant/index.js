@@ -362,6 +362,10 @@ const customWebsites = [
         url: "https://www.listolet.com/en"
     },
     {
+        name: "The Furniture Gallery",
+        url: "https://thefurnituregallery.com.au/"
+    },
+    {
         name: "Kothari International",
         url: "https://kotharischool.edu.in/"
     },
