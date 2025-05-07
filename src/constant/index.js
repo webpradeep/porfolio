@@ -33,7 +33,9 @@ import {
     sarkaripublic,
     nike,
     youtube,
-    synapse
+    synapse,
+    studio,
+    intents
 } from "../assets";
 
 export const navLinks = [
@@ -240,9 +242,9 @@ const projects = [
         source_code_link: "https://www.expostandzone.com/",
     },
     {
-        name: "Nike Shoes Store",
+        name: "Studio ",
         description:
-            "Web-based platform that is Exhibtion Stand builder website with using technology HTML, CSS and JS",
+            "Effortless Word Count, Intelligent Insights – Your AI-Powered Writing Assistant",
         tags: [
             {
                 name: "NextJS",
@@ -257,13 +259,13 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: nike,
-        source_code_link: "https://nike-frontend-clone.vercel.app/",
+        image: studio,
+        source_code_link: "https://studiocr.vercel.app/",
     },
     {
-        name: "Youtube Clone ",
+        name: "Try Intents",
         description:
-            "Web application that is provide movie information, trading movie , latest movie .",
+            "Accelerate your business with smart solutions.Harness cutting-edge technology and expert-driven strategies to fuel growth, streamline operations, and stay ahead of the competition.",
         tags: [
             {
                 name: "react",
@@ -278,8 +280,8 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: youtube,
-        source_code_link: "https://youtube-clone-pradeep.vercel.app/",
+        image: intents,
+        source_code_link: "https://tryintents.com/",
     },
     {
         name: "MovieWale",

@@ -43,6 +43,8 @@ import domicile from "./domicile.png"
 import sarkaripublic from "./sarkaripublic.png"
 import nike from "./nike.png"
 import youtube from "./youtube_clone.png"
+import intents from "./intents.webp"
+import studio from "./studio.png"
 
 export {
   youtube,
@@ -84,6 +86,8 @@ export {
   chetu,
   isynbus,
   treebay,
-  synapse
+  synapse,
+  studio,
+  intents
 
 };
