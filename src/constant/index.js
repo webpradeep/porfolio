@@ -348,6 +348,18 @@ const projects = [
 ];
 const customWebsites = [
     {
+        name: "Whistle",
+        url: "https://whistle.in/"
+    },
+    {
+        name: "CME 4 Life",
+        url: "https://cme4life.com/"
+    },
+    {
+        name: "Listolet",
+        url: "https://www.listolet.com/en"
+    },
+    {
         name: "Kothari International",
         url: "https://kotharischool.edu.in/"
     },
