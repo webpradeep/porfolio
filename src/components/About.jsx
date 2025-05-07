@@ -41,10 +41,11 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-5 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          A Front-End Developer with 4 years of experience expert in web
-          development, user interface design, HTML, CSS3, JS and React JS. Adept
-          at identifying opportunities to enhance front-end Develop skills and
-          improve the coding standards.
+      My name is Pradeep, and I have 5 years of experience in frontend development. I specialize in HTML, CSS, JavaScript, and modern frameworks like Tailwind CSS, React.js, and Next.js, with a basic understanding of Node.js. I’ve built scalable, responsive, and user-friendly web applications. <br/><br/>
+
+In my previous role, I collaborated closely with designers, backend developers, and product managers to deliver seamless user experiences. I’m skilled in performance optimization, API integration, and applying best practices in frontend development.<br/><br/>
+
+I enjoy solving complex UI challenges and am a quick learner who adapts easily to new technologies.
         </motion.p>
         <div className="mt-20 flex flex-wrap gap-10">
           {services.map((service, index) => (

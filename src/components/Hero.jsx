@@ -17,13 +17,13 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className="text-[#FF6E00]"> Pradeep</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`${styles.heroSubText} mt-2 text-white-100 mb-2`}>
             I am an independent, self-motivated individual dedicated to achieving my goals through hard work and determination.
           </p>
           <a
-            href="/Pradeep-Yadav-Frontend-Developer-Resume.pdf"
+            href="/CV_PradeepYadav_FrontendDeveloper.pdf"
             attributes-list
-            download="/Pradeep-Yadav-Frontend-Developer-Resume.pdf"
+            download="/CV_PradeepYadav_FrontendDeveloper.pdf"
             className="relative z-[3] black-gradient uppercase inline-block mt-3 cursor-pointer rounded-lg px-6 py-2 text-white text-[18px] font-uppercase"
           >
             Download Resume
