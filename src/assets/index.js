@@ -30,6 +30,7 @@ import chetu from "./company/chetu.png"
 import beganto from "./company/beganto.png"
 import isynbus from "./company/isynbus.png"
 import treebay from "./company/treebay.png"
+import synapse from "./company/synapse.webp"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -82,7 +83,7 @@ export {
   beganto,
   chetu,
   isynbus,
-  treebay
-
+  treebay,
+  synapse
 
 };

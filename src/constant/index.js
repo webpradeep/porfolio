@@ -32,7 +32,8 @@ import {
     domicile,
     sarkaripublic,
     nike,
-    youtube
+    youtube,
+    synapse
 } from "../assets";
 
 export const navLinks = [
@@ -125,6 +126,18 @@ const technologies = [
 ];
 
 const experiences = [
+    {
+        title: "Frontend Developer",
+        company_name: "Synpase India",
+        icon: synapse,
+        iconBg: "#fff",
+        date: "Nov 2023 - Present",
+        points: [
+            "Optimized website speed and performance through code refactoring, image optimization, and asynchronous loading techniques, achieving significant improvements in 2x load times.",
+            "Implemented performance optimizations and responsive design, reducing bounce rates by 30% and improving mobile traffic conversions for eCommerce clients",
+            "Developed and implemented a utility product for developers, including features like a work counter, text styling  options, color generator, and slug generator",
+        ],
+    },
     {
         title: "Software Engineer (Front End)",
         company_name: "Chetu India Pvt. Ltd.",
